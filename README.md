@@ -1,7 +1,5 @@
 # 🔐 Data Encryption with AWS KMS & DynamoDB
 
-## 📅 Date
-June 2025
 
 ## 🧰 Tech  
 **AWS KMS**, **DynamoDB**, **IAM**
